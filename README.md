@@ -8,3 +8,6 @@ View project on jupyters [here](https://github.com/aminbasiran/SQL-projects/blob
 
 ### 2. Laptop brands prices
 View project on jupyters [here](https://github.com/aminbasiran/SQL-projects/blob/main/laptop.ipynb)
+
+### 3. Forecasting the gas prices for the next 5 years
+View project on jupyters [here](https://github.com/aminbasiran/SQL-projects/blob/main/Gas-prices.ipynb)

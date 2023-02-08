@@ -11,3 +11,6 @@ View project on jupyters [here](https://github.com/aminbasiran/SQL-projects/blob
 
 ### 3. Forecasting the gas prices for the next 5 years
 View project on jupyters [here](https://github.com/aminbasiran/SQL-projects/blob/main/Gas-prices.ipynb)
+
+### 4. Case Study #1: Danny's Diner
+View project on jupyters [here](https://github.com/aminbasiran/SQL-projects/blob/main/danny_diner.ipynb)

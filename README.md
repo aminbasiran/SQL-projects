@@ -14,3 +14,6 @@ View project on jupyters [here](https://github.com/aminbasiran/SQL-projects/blob
 
 ### 4. Case Study #1: Danny's Diner
 View project on jupyters [here](https://github.com/aminbasiran/SQL-projects/blob/main/danny_diner.ipynb)
+
+### 5. Case Study #2: Danny's Pizza
+View project on jupyters [here](https://github.com/aminbasiran/SQL-projects/blob/main/danny_pizza.ipynb)

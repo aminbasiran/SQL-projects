@@ -13,4 +13,6 @@ These projects were written in jupyter notebook for easier documention. Click on
 
 ### 5. [Case Study #2: Danny's Pizza](https://github.com/aminbasiran/SQL-projects/blob/main/danny_pizza.ipynb)
 
-### 6. [Case Study #2: Foodie Fi](https://github.com/aminbasiran/SQL-projects/blob/main/foodie_fi.ipynb)
+### 6. [Case Study #3: Foodie Fi](https://github.com/aminbasiran/SQL-projects/blob/main/foodie_fi.ipynb)
+
+### 7. [Case Study #4: Data bank](https://github.com/aminbasiran/SQL-projects/blob/main/data_bank.ipynb)

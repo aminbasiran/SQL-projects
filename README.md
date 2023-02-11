@@ -17,5 +17,5 @@ These projects were written in jupyter notebook for easier documention. Click on
 
 ### 7. [Case Study #4: Data bank](https://github.com/aminbasiran/SQL-projects/blob/main/data_bank.ipynb)
 
-### 8. [Case Study #5: Data mart](https://github.com/aminbasiran/SQL-projects/blob/main/data_mart.ipynb)
+### 8. [Case Study #6: Clique bait](https://github.com/aminbasiran/SQL-projects/blob/main/clique_bait.ipynb)
 

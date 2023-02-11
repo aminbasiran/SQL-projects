@@ -16,3 +16,6 @@ These projects were written in jupyter notebook for easier documention. Click on
 ### 6. [Case Study #3: Foodie Fi](https://github.com/aminbasiran/SQL-projects/blob/main/foodie_fi.ipynb)
 
 ### 7. [Case Study #4: Data bank](https://github.com/aminbasiran/SQL-projects/blob/main/data_bank.ipynb)
+
+### 8. [Case Study #5: Data mart](https://github.com/aminbasiran/SQL-projects/blob/main/data_mart.ipynb)
+

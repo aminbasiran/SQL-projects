@@ -29,21 +29,30 @@ select * from temp_sales;
 -- B. Data exploration
 -- What day of the week is used for each week_date value?
 
-select week_date, dayname(week_date) from weekly_sales;
+select week_date, dayname(week_date) 
+from weekly_sales;
 
 -- What range of week numbers are missing from the dataset?
 
 -- How many total transactions were there for each year in the dataset?
 
-select year(week_date), count(transactions) from temp_sales group by year(week_date) order by year(week_date) asc ;
+select year(week_date), count(transactions) 
+from temp_sales 
+group by year(week_date) 
+order by year(week_date) asc ;
 
 -- What is the total sales for each region for each month?
 
-select region, month_number, sum(sales) as total_sales from temp_sales group by region, month_number order by region;
+select region, month_number, sum(sales) as total_sales 
+from temp_sales 
+group by region, month_number 
+order by region;
 
 -- What is the total count of transactions for each platform
 
-select platform, count(transactions) from temp_sales group by platform
+select platform, count(transactions) 
+from temp_sales 
+group by platform
 
 -- What is the percentage of sales for Retail vs Shopify for each month?
 
